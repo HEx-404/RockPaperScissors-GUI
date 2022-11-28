@@ -12,6 +12,9 @@
 
   4. `python game.py`
 
+# Credits
+  UI Design idea inspired by: https://github.com/madzadev/rock-paper-scissors
+
 # Contributing
    Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
